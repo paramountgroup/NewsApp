@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bob Ingram\Google Drive\Udacity Projects\NewsApp_Resubmit_jan_30\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Bob Ingram\Google Drive\Udacity Projects\NewsApp_Resubmit_jan_30\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_0e9fa9d928ab40aad84a2d8c1c80dfba16d1f7da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bob Ingram\Google Drive\Udacity Projects\NewsApp_Resubmit_jan_30\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bd0c74f414ef6ca1b14db5c8075dd6e8f6e79378">
+        <dex dex="C:\Users\Bob Ingram\Google Drive\Udacity Projects\NewsApp_Resubmit_jan_30\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_954030739287bebde798f3772cb6d93d1440e0ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bob Ingram\Google Drive\Udacity Projects\NewsApp_Resubmit_jan_30\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Bob Ingram\Google Drive\Udacity Projects\NewsApp_Resubmit_jan_30\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_e615606fe7cbd1847fa1b7d6b10293025635bcd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bob\AndroidStudioProjects\QuakeReport\QuakeReport\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="888127c52d5372467ed1cf4f842126b35dd53ec7">
+        <dex dex="C:\Users\bob\AndroidStudioProjects\QuakeReport\QuakeReport\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_67a89a2ed9b0810c31924bfb0a14c410ebae6c1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bob Ingram\Google Drive\Udacity Projects\NewsApp_Resubmit_jan_30\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Bob Ingram\Google Drive\Udacity Projects\NewsApp_Resubmit_jan_30\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_2ef5a34774c32817c866e055da31bf9c50823c1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bob\AndroidStudioProjects\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\bob\AndroidStudioProjects\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_503759887fc77d17a78a12462c4c73b43af3aa6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bob Ingram\Google Drive\Udacity Projects\NewsApp_Resubmit_jan_30\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Bob Ingram\Google Drive\Udacity Projects\NewsApp_Resubmit_jan_30\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_acf19d7a7c64726e8334bba59ce3a166822c79fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bob\AndroidStudioProjects\QuakeReport\QuakeReport\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\bob\AndroidStudioProjects\QuakeReport\QuakeReport\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_b8d9012d3bba145698ffac591819a1509d153ca3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bob\AndroidStudioProjects\QuakeReport\QuakeReport\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\bob\AndroidStudioProjects\QuakeReport\QuakeReport\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_991766ac757f0a1a85954b83920b7a92595ca2ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bob\AndroidStudioProjects\QuakeReport\QuakeReport\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\bob\AndroidStudioProjects\QuakeReport\QuakeReport\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_ce746b878dff9d1cb0c051c01761a78d8f476823\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bob\AndroidStudioProjects\QuakeReport\QuakeReport\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\bob\AndroidStudioProjects\QuakeReport\QuakeReport\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_94d1119b098d8320afdaae935376510f9522ddb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bob\AndroidStudioProjects\NewsApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\bob\AndroidStudioProjects\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_ddb32ee30648ef146d646fdab308311b283d1f86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bob\AndroidStudioProjects\NewsApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d8f19d4141968e10bfb20113281c26291e60f6d">
+        <dex dex="C:\Users\bob\AndroidStudioProjects\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_72d3b15d2eb95cb15d52c3c981cd96815e352276\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bob\AndroidStudioProjects\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\bob\AndroidStudioProjects\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_8c7d5d2df0c30ceb65334b85bdd18b0399906559\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bob\AndroidStudioProjects\NewsApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\bob\AndroidStudioProjects\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_8244dbdcd616368322793624162346d8ff6080a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bob\AndroidStudioProjects\QuakeReport\QuakeReport\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\bob\AndroidStudioProjects\QuakeReport\QuakeReport\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_ff2aeb8fb0aa8612c6cba525078bf9bcfc782c43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bob Ingram\Google Drive\Udacity Projects\NewsApp_Resubmit_jan_30\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Bob Ingram\Google Drive\Udacity Projects\NewsApp_Resubmit_jan_30\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_5d06f4c5fff13bb0a420149b6df20509f01a9df6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bob Ingram\Google Drive\Udacity Projects\NewsApp_Resubmit_jan_30\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d42a8715c851e5f55a9fa1c22b12297705d1cf01">
+        <dex dex="C:\Users\Bob Ingram\Google Drive\Udacity Projects\NewsApp_Resubmit_jan_30\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_311293cba09bd47301f1ed710590ec208e11150c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bob\AndroidStudioProjects\NewsApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\bob\AndroidStudioProjects\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_497dbefb186a65d4048097884ca9b0345601f010\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bob\AndroidStudioProjects\NewsApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="976c463d1bcfe716e12f29573491a53cb5df8386">
+        <dex dex="C:\Users\bob\AndroidStudioProjects\NewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cc7e16d885b6dac30fb11e77740617c8914f14d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bob\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\bob\AndroidStudioProjects\QuakeReport\QuakeReport\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_753987275abc62099d5b8a11de14c8fcec4d3cdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bob\AndroidStudioProjects\QuakeReport\QuakeReport\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="34b287dfa51aa108fd025f843b974aff3d6581f1">
+        <dex dex="C:\Users\bob\AndroidStudioProjects\QuakeReport\QuakeReport\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f3b0734930043df38c65074eb6c0d1400c5ef01f\classes.dex" />
+    </item>
+
+</items>
